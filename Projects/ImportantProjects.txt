@@ -1,0 +1,13 @@
+1) Bookoo - https://bookcetera.in/
+This is one of the best Projects I have created so far 
+Includes:-Full stack (vue+firebase), hosting(GCP)
+2) AI chat bot -https://github.com/AnmolPatil2/Chat__Bot
+Includes:-AI, DBMS, CLOUD computing, Linux
+3) 3d-printing -https://github.com/AnmolPatil2/3D-Printing-Gavrav
+Includes:-Apis, php
+4)Sentimental analysis - https://github.com/AnmolPatil2/MachineLearing-and-AritificalInteligence-Display
+5)Docker And Kuberneters -https://github.com/AnmolPatil2/multiDocker
+6)Geoapp-https://geo-location-vue-project-cce0b.web.app/
+
+All Data related projects
+  https://github.com/AnmolPatil2/MachineLearing-and-AritificalInteligence-Display
